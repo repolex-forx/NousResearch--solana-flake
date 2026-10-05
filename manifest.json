@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "solana-flake",
+  "versions": [
+    {
+      "commit": "c1e48211971952ef6b3975c6d8fdc1f79ed7418a",
+      "parsed_at": "2026-10-05T09:50:44.568618+00:00",
+      "tag": "main",
+      "filetree": "filetree/c1e48211971952ef6b3975c6d8fdc1f79ed7418a.nq.gz",
+      "blobs": [
+        "blob/ef12c672e79923fe4873ba2ef5d9a37438b2474e.nq.gz",
+        "blob/ce6432ba6f2426a09e80a107043537a4708c54d6.nq.gz",
+        "blob/e94621ee65f3b3e9333528af1cb68dbea4a4227d.nq.gz",
+        "blob/22f0d280e4dd75ee603c755a28c7332edee6bca1.nq.gz",
+        "blob/eb06186650e0347160bd3080c090a2a2f97b0b4c.nq.gz",
+        "blob/4302c5a808ff85eb1f55f6bad99d897999c915b0.nq.gz",
+        "blob/49518a39c9c07e298b4e7de9d7c16caa8fb38485.nq.gz",
+        "blob/8a9fe94042e66f3a2ec8ca8fc2df4cae99c4d85d.nq.gz",
+        "blob/2eaf529c30349334d536defa186f709ae858ce39.nq.gz",
+        "blob/dad884a2ffa62ac06e4a2c62a5f2c1e2915ce4c2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
