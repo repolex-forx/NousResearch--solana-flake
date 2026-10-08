@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/solana-flake/commit/c1e48211971952ef6b3975c6d8fdc1f79ed7418a",
       "git:hexsha": "c1e48211971952ef6b3975c6d8fdc1f79ed7418a",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-08T11:07:39.119677+00:00"
     }
   ]
 }
